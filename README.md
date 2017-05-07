@@ -8,3 +8,4 @@ Starter code for webdev project.
   * css - Cascading Style Sheets (CSS) files
   * images - Image files (png, jpg, etc.)
   * js - JavaScript files
+* mockup - Website mockup design images
