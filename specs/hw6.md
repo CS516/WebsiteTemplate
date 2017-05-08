@@ -21,13 +21,13 @@ at least registration and log in forms and any other forms from your mock-up.
 This makes it easier to bring focus to the form element because the user can
 click on the label or the field to gain focus.
 
-* Form submission. Decide whether to use GET or POST for each form submission.
+* Form submission. Decide whether to use `GET` or `POST` for each form submission.
 
-*Post/Redirect/Get. Avoid form re-submission by directing the form action to a
+* Post/Redirect/Get. Avoid form re-submission by directing the form action to a
 separate PHP handler. When you are done processing the data, redirect the user
 as necessary.
 
-* Process form data. Use the global $_GET and $_POST arrays to retrieve form data
+* Process form data. Use the global `$_GET` and `$_POST` arrays to retrieve form data
 in PHP.
 
 * Sanitize data. Sanitize all input. If you’re going to display data in HTML, make
