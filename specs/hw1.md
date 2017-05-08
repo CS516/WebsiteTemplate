@@ -1,5 +1,7 @@
 # Homework 1: Website Requirements
 
+You have one personal semester-long website project divided into several programming assignments, and you get to come up with the idea! The website requirements are flexible, but it must have certain capabilities to demonstrate that you have learned web development skills taught in class. The theme of your website cannot change over the course of the semester, so choose wisely. The theme must be approved by the instructor - so make it appropriate in scope and content. Try and be as descriptive as possible. The more upfront requirements you nail down, the easier it will be later.
+
 ## General Theme
 For example: photo gallery, recipe repository, Twitter clone, e-commerce inventory, API-driven data mining, generic wedding,
 message board for the class, dentistry, etc.
