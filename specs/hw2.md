@@ -1,4 +1,4 @@
-# Website Mockup
+# Homework 2: Website Mockup
 
 Before you begin development on your website, you will create an initial
 "mock-up". This is a primitive representation of how each page will look. You
