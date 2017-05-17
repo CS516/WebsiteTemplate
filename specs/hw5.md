@@ -24,9 +24,9 @@ user-friendly.
 You will use the PHP include and/or require (and/or their "_once" variations) to
 include repeated HTML in your files.
 
-* If you haven't already, you will need to change your file extensions from .html
+- [ ] If you haven't already, you will need to change your file extensions from .html
 to .php.
-* Create templates for at least the header/footer of each page.
+- [ ] Create templates for at least the header/footer of each page.
 
 ### Context-aware Navigation
 
