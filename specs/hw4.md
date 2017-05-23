@@ -3,6 +3,10 @@
 Add JavaScript and/or jQuery to make your site "fancier" (i.e. make the user 
 interface more user-friendly, more attractive, appear more responsive, etc.)
 
+If you are using jQuery, don't forget to include the jQuery library in your
+HTML head. See [Getting Started with jQuery](https://www.w3schools.com/jquery/jquery_get_started.asp)
+for more information.
+
 ## Learning Objectives
 
 * Identify uses for JavaScript (and jQuery) in web applications.
