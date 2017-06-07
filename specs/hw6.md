@@ -36,7 +36,8 @@ sure it’s properly escaped.
 - [ ] Validate data. Validate any email addresses, dates, etc. Use at least one
 regular expression to validate one of the form inputs. Validate data even if
 options are restricted (i.e. select, radio, etc. need validation too).
-Presets. If any form data is incorrect when the user submits the form, DO NOT
+
+- [ ] Presets. If any form data is incorrect when the user submits the form, DO NOT
 let the form fields clear when re-directing the user back to the original page.
 Use a session for persisting the input across pages. Fill out the form with
 previously entered data and give the user a chance to fix their input.
