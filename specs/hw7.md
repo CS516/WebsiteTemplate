@@ -19,8 +19,7 @@ permissions, etc.
 - [ ] Create a `create-tables.sql` file and add the necessary SQL statements for
 creating your tables. (Similar to what we did in the Databases, SQL, and PDO
 Activity).
-- [ ] Don't forget about the [TrySQL
-Tutorial](http://campus.codeschool.com/courses/try-sql/level/3/section/1/video/1).
+- [ ] Don't forget about the [Learn SQL Tutorial](https://www.codecademy.com/courses/learn-sql).
 This can be helpful when designing your tables.
 - [ ] You may also want to look at some of the examples in the [GitHub
 Repository](https://github.com/BoiseState/CS401-resources/tree/master/php/pdo).
